@@ -1,0 +1,1 @@
+arr = random.uniform(10.7,36.2,500).reshape(100,5)
