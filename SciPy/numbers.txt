@@ -1,0 +1,7 @@
+# Initial Velocity(m/s) |  Initial Angle (radians) 
+#  First Line: Golfball 
+#  Second Line: Baseball 
+#  Third Line: Pumpkin
+         36.10                      1.00            
+         36.60                      1.00            
+         29.10                      0.90            
